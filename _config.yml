@@ -22,7 +22,7 @@ sass:
 
 # Site Data
 url: chrisanddaine.blog # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: # the subpath of your site, e.g. /blog
+baseurl: http://chrisanddaine.blog # the subpath of your site, e.g. /blog
 title: Chris & Diane
 description: "For Diane, the most adorable girl in my life."
 keywords: 'jekyll,theme,gem-based,blog'
